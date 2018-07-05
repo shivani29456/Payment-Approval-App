@@ -1,0 +1,11 @@
+spring:
+   application:
+    name: CompanyMaster-service
+
+
+ 
+     
+     
+server:
+  port: 8305
+  
